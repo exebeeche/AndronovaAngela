@@ -27,6 +27,6 @@ Welcome to my personal GitHub repo.
 
 ## Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?
-repo=exebeeche/exebeeche)
-
+<a href="https://github.com/exebeeche/exebeeche/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=exebeeche/exebeeche" />
+</a>
