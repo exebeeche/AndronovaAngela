@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to the my personal GitHub repo.
+Welcome to my personal GitHub repo.
 
 ## Here is some info about me
 
@@ -19,7 +19,7 @@ Welcome to the my personal GitHub repo.
 
 ## Follow me
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anzhelika-andronova)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-2C5EBE?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anzhelika-andronova/?locale=en_US)
 
 ## My stats
 
