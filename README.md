@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to my personal GitHub repo.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+personal+GitHub+repo)](https://git.io/typing-svg)
 
 ## Here is some info about me
 
@@ -12,6 +12,12 @@ Welcome to my personal GitHub repo.
 - 🤔 I’m currently learning `C#`
 
 ## My samples
+
+- [Spark](https://docs-new.arenadata.io/en/ADH/current/how-to/spark/spark-work.html)
+- [Blockchain SmartContracts](https://docs.wavesenterprise.com/en/1.4.0/how-the-platform-works/smart-contracts/docker.html)
+
+# GitHub achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=exebeeche)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## What I use in my work
 
