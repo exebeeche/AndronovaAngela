@@ -8,7 +8,7 @@
 
 - 🔭 I'm a highly organized and proactive Technical Writer with 15+ years of 
   experience
-- 🌱 I'm open to offers
+- 🌱 I am a 100% geek when it comes to IT
 - 🤔 I’m currently learning `C#`
 
 ## My samples
