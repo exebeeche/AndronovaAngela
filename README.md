@@ -13,9 +13,11 @@
 
 ## My samples
 
+- [Date Navigation Panel](https://docs.devexpress.com/WPF/400588/controls-and-libraries/scheduler/visual-elements/date-navigation-panel)
+- [Load Data on Demand](https://docs.devexpress.com/WPF/402187/controls-and-libraries/scheduler/data-binding/load-data-on-demand)
+- [WPF Product Blog](https://community.devexpress.com/blogs/wpf/archive/2022/12/16/wpf-browsepathedit-select-files-and-folders-in-your-wpf-app.aspx)
 - [Spark](https://docs-new.arenadata.io/en/ADH/current/how-to/spark/spark-work.html)
 - [Blockchain SmartContracts](https://docs.wavesenterprise.com/en/1.4.0/how-the-platform-works/smart-contracts/docker.html)
-- [](https://docs.wavesenterprise.com/en/1.4.0/how-the-platform-works/smart-contracts/docker.html)
 
 # GitHub achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=exebeeche)](https://github.com/ryo-ma/github-profile-trophy)
