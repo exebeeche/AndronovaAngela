@@ -15,6 +15,7 @@
 
 - [Spark](https://docs-new.arenadata.io/en/ADH/current/how-to/spark/spark-work.html)
 - [Blockchain SmartContracts](https://docs.wavesenterprise.com/en/1.4.0/how-the-platform-works/smart-contracts/docker.html)
+- [](https://docs.wavesenterprise.com/en/1.4.0/how-the-platform-works/smart-contracts/docker.html)
 
 # GitHub achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=exebeeche)](https://github.com/ryo-ma/github-profile-trophy)
@@ -29,7 +30,7 @@
 
 ## My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exebeeche)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exebeeche&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributors
 
