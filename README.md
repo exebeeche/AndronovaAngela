@@ -29,7 +29,7 @@
 
 ## My stats
 
-![https://github.com/Andronovss/github-readme-stats](https://github-readme-stats.vercel.app/api?username=exebeeche&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exebeeche)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributors
 
